@@ -1,0 +1,5 @@
+# Ignore instruction markdown files
+CLAUDE.md
+GITHUB_PROFILE_SETUP.md
+README.md
+**/.claude/settings.local.json
