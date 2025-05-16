@@ -124,11 +124,11 @@ chrome.runtime.onInstalled.addListener(() => {
 
 I'm committed to expanding my technical knowledge to enhance my SEO expertise through:
 
-- 📖 **Chrome Extension Development**: Building real-world browser extensions with JavaScript
-- 🧪 **Technical SEO**: Implementing advanced optimizations using programming skills
-- 🔍 **Structured Data**: Mastering Schema.org markup and JSON-LD implementation
-- 💻 **Modern Workflows**: Git version control and collaborative development practices
-- 🤖 **AI/LLM Integration**: Leveraging GPT-4o/o3-mini, Claude 3.7 Sonnet, and Gemini 2.5 for SEO analysis
+- **Chrome Extension Development**: Building real-world browser extensions with JavaScript
+- **Technical SEO**: Implementing advanced optimizations using programming skills
+- **Structured Data**: Mastering Schema.org markup and JSON-LD implementation
+- **Modern Workflows**: Git version control and collaborative development practices
+- **AI/LLM Integration**: Leveraging GPT-4o/o3-mini, Claude 3.7 Sonnet, and Gemini 2.5 for SEO analysis
 
 ### 📈 2025 Goals
 - [x] Complete advanced Chrome Extension features for Orca Scan project
