@@ -1,11 +1,11 @@
 # Robert Lora | SEO Lead & Code Explorer
 
 <div align="center">
-  <img src="./profile.jpg" width="200" style="border-radius: 50%; margin-bottom: 20px" alt="Robert Lora"/>
+  <img src="./profile.jpg" width="200" style="border-radius: 50%; margin-bottom: 10px" alt="Robert Lora"/>
   
   <h3>🚀 Bridging Marketing Strategy with Technical Implementation</h3>
   
-  <br/>
+  <p style="margin: 20px 0"></p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-john-lora)
   [![Website](https://img.shields.io/badge/Website-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://robertjlora.com)
