@@ -1,7 +1,7 @@
 # Robert Lora | SEO Lead & Code Explorer
 
 <div align="center">
-  <img src="./profile.jpg" width="200" style="border-radius: 50%; margin-bottom: 10px" alt="Robert Lora"/>
+  <img src="./profile.jpg" width="200" style="border-radius: 16px; margin-bottom: 10px" alt="Robert Lora"/>
   
   <h3>🚀 Bridging Marketing Strategy with Technical Implementation</h3>
   
