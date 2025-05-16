@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="./profile.jpg" width="150" style="border-radius: 50%" alt="Robert Lora"/>
-  <h3>Bridging Marketing Strategy with Technical Implementation</h3>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robert-john-lora)
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=safari&logoColor=white)](https://robertjlora.com)
@@ -14,14 +13,6 @@
 
 SEO Lead with 8+ years of expertise, successfully managing enterprise, mid-market, and SMB accounts. I bridge the gap between marketing strategy and technical implementation, allowing me to communicate effectively with both business and development teams while delivering exceptional organic growth results.
 
-<div align="center">
-  
-  ![Years Experience](https://img.shields.io/badge/Experience-8+_Years-brightgreen?style=flat-square)
-  ![Focus](https://img.shields.io/badge/Focus-SEO_+_Development-blue?style=flat-square)
-  ![Current Project](https://img.shields.io/badge/Current_Project-Chrome_Extension-orange?style=flat-square)
-  
-</div>
-
 > "The best marketers understand both the why and how their products work."
 
 ---
@@ -30,12 +21,6 @@ SEO Lead with 8+ years of expertise, successfully managing enterprise, mid-marke
 
 ### 🧩 Chrome Extension – Barcode & QR Scanner Tool (2025)
 
-<div align="center">
-  
-![Featured Project](https://img.shields.io/badge/Featured_Project-2025-gold?style=for-the-badge)
-![In Development](https://img.shields.io/badge/Status-In_Final_Testing-orange?style=for-the-badge)
-  
-</div>
 
 <div align="center">
   <img src="./orca screenshot 1.png" width="70%" alt="QR Code Extension Screenshot 1"/>
